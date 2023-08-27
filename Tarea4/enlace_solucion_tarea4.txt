@@ -1,0 +1,1 @@
+El repositorio con la solución a la tarea4 se encuentra en el siguiente link: https://github.com/gecrodriguezpe/Diplomado-Ciencia-de-Datos/tree/8fce4476c7ca97790949535d68215fc30b9823f7/Tarea4
